@@ -1,2 +1,2 @@
 # sigma
-This is for git and github class
+This is a demo for git &amp; github class.
